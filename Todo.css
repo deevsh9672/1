@@ -12,6 +12,7 @@ body{
  input{
     width: 110px;
     padding: 2px;
+     text-align: center;
     border: 2px solid rgb(6, 145, 145);
     outline: none;
     font-size: 19px;
@@ -22,7 +23,7 @@ body{
     width: 60px;
     height: 41px;
     background-color: rgb(4, 29, 29);
-    color: red;
+    color: white;
     border: none;
     cursor: pointer;
 
