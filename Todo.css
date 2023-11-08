@@ -3,14 +3,14 @@ body{
     font-family: 'Poppins', sans-serif;
  }
  .container{
-    width: 12px;
+    width: 11px;
     padding: 21px;
     background-color: #fff;
     margin-left: 1%;
     margin-top: 5px;
  }
  input{
-    width: 110px;
+    width: 80px;
     padding: 2px;
      text-align: center;
     border: 2px solid rgb(6, 145, 145);
