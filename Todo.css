@@ -3,7 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
  }
  .container{
-    width: 360px;
+    width: 12px;
     padding: 33px;
     text-align: center;
     background-color: #fff;
@@ -11,7 +11,7 @@ body{
     margin-top: 5px;
  }
  input{
-    width: 270px;
+    width: 110px;
     padding: 8px;
     border: 2px solid rgb(6, 145, 145);
     outline: none;
