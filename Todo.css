@@ -4,15 +4,14 @@ body{
  }
  .container{
     width: 12px;
-    padding: 33px;
-    text-align: center;
+    padding: 21px;
     background-color: #fff;
-    margin-left: 33%;
+    margin-left: 1%;
     margin-top: 5px;
  }
  input{
     width: 110px;
-    padding: 8px;
+    padding: 2px;
     border: 2px solid rgb(6, 145, 145);
     outline: none;
     font-size: 19px;
@@ -23,7 +22,7 @@ body{
     width: 60px;
     height: 41px;
     background-color: rgb(4, 29, 29);
-    color: white;
+    color: red;
     border: none;
     cursor: pointer;
 
